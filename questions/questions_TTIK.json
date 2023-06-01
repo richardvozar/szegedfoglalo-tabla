@@ -1,0 +1,134 @@
+[
+  {
+    "question_id": 308,
+    "question": "Mikor alapították a Szegedi Tudományegyetem Természettudományi és Informatikai Karját?",
+    "answs": {
+      "answ1": "1994",
+      "answ2": "2000",
+      "answ3": "2006",
+      "answ4": "2012"
+    },
+    "Cor_answ": 2000,
+    "type": 2
+  },
+  {
+    "question_id": 312,
+    "question": "Mikor alakult meg a Szegedi Tudományegyetem Természettudományi Karának elődje?",
+    "answs": {
+      "answ1": "1921",
+      "answ2": "1956",
+      "answ3": "1973",
+      "answ4": "1989"
+    },
+    "Cor_answ": 1921,
+    "type": 2
+  },
+  {
+    "question_id": 313,
+    "question": "Melyik évben indult az első Informatikai képzés Szegeden?",
+    "answs": {
+      "answ1": "1975",
+      "answ2": "1985",
+      "answ3": "1995",
+      "answ4": "2005"
+    },
+    "Cor_answ": 1985,
+    "type": 2
+  },
+  {
+    "question_id": 317,
+    "question": "Melyik évben indult a biológiai képzés Szegeden?",
+    "answs": {
+      "answ1": "1921",
+      "answ2": "1945",
+      "answ3": "1963",
+      "answ4": "1989"
+    },
+    "Cor_answ": 1921,
+    "type": 2
+  },
+  {
+    "question_id": 319,
+    "question": "Melyik évben alakult a Szegedi Tudományegyetem Biológiai Kar?",
+    "answs": {
+      "answ1": "1921",
+      "answ2": "1949",
+      "answ3": "1963",
+      "answ4": "1989"
+    },
+    "Cor_answ": 1949,
+    "type": 2
+  },
+  {
+    "question_id": 323,
+    "question": "Hány kredites az Assembly kurzus a Szegedi Tudományegyetem Informatikai Karán?",
+    "answs": {
+      "answ1": "2",
+      "answ2": "3",
+      "answ3": "4",
+      "answ4": "5"
+    },
+    "Cor_answ": 2,
+    "type": 2
+  },
+  {
+    "question_id": 324,
+    "question": "Hány szemeszterből áll a programtervező informaitkus képzés a Szegedi Tudományegyetem Informatikai Karán?",
+    "answs": {
+      "answ1": "4",
+      "answ2": "6",
+      "answ3": "7",
+      "answ4": "8"
+    },
+    "Cor_answ": 6,
+    "type": 2
+  },
+  {
+    "question_id": 325,
+    "question": "Hány szemeszterből áll a programtervező informaitkus képzés a Szegedi Tudományegyetem Informatikai Karán?",
+    "answs": {
+      "answ1": "4",
+      "answ2": "5",
+      "answ3": "6",
+      "answ4": "7"
+    },
+    "Cor_answ": 6,
+    "type": 2
+  },
+  {
+    "question_id": 1115,
+    "question": "Hány intézete van az SZTE-TTIK-nak?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 6,
+    "type": 2
+  },
+  {
+    "question_id": 1114,
+    "question": "Hány államilag finanszírozott félévet garantál az SZTE-TTIK?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 8,
+    "type": 2
+  },
+  {
+    "question_id": 1112,
+    "question": "Hány alapképzési szakot kínál az SZTE-TTIK?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 15,
+    "type": 2
+  }
+]

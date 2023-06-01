@@ -1,0 +1,242 @@
+[
+  {
+    "question_id": 31,
+    "question": "Hány km hosszú a Tisza-Szeged-től való távolsága a magyar-román határon?",
+    "answs": {
+      "answ1": "100 km",
+      "answ2": "200 km",
+      "answ3": "300 km",
+      "answ4": "400 km"
+    },
+    "Cor_answ": 100,
+    "type": 2
+  },
+  {
+    "question_id": 21,
+    "question": "Melyik évben nyitotta meg kapuit az ELI lézerközpont Szegeden?",
+    "answs": {
+      "answ1": "2010",
+      "answ2": "2017",
+      "answ3": "2016",
+      "answ4": "2013"
+    },
+    "Cor_answ": 2017,
+    "type": 2
+  },
+  {
+    "question_id": 94473,
+    "question": "Melyik évbből került elő az első írásos adat Szegedről?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1183,
+    "type": 2
+  },
+  {
+    "question_id": 95716,
+    "question": "Melyik évben kapott címert Szeged?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1719,
+    "type": 2
+  },
+  {
+    "question_id": 96866,
+    "question": "Melyik évben kapott szabad királyi városi rangot Szeged?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1498,
+    "type": 2
+  },
+  {
+    "question_id": 26906,
+    "question": "Az első világháborút követően hány francia katona szállta meg Szegedet?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 28000,
+    "type": 2
+  },
+  {
+    "question_id": 10945,
+    "question": "Melyik évben égett le Szeged a mongol invázió során?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1241,
+    "type": 2
+  },
+  {
+    "question_id": 39874,
+    "question": "Mennyi Szeged körzethívószáma?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 62,
+    "type": 2
+  },
+  {
+    "question_id": 10210,
+    "question": "Melyik évben kapta vissza újra Szeged a szabad királyi városi rangját?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1715,
+    "type": 2
+  },
+  {
+    "question_id": 74999,
+    "question": "Melyik évben történt a szegedi „nagy” árvíz?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1879,
+    "type": 2
+  },
+  {
+    "question_id": 19745,
+    "question": "Hány éve polgármestere Szegednek Botka László?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 21,
+    "type": 2
+  },
+  {
+    "question_id": 71630,
+    "question": "Meyik évezredbe nyúlnak vissza az első régészeti leletek Szegedről?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 6,
+    "type": 2
+  },
+  {
+    "question_id": 21497,
+    "question": "Megközelítőleg hány díszpolgára van Szegednek jelenleg?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 50,
+    "type": 2
+  },
+  {
+    "question_id": 33197,
+    "question": "Hány darab testvérvárosa van Szegednek?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 20,
+    "type": 2
+  },
+  {
+    "question_id": 3820,
+    "question": "Szeged Magyarországon hanyadik legnépszerűbb települése?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 14,
+    "type": 2
+  },
+  {
+    "question_id": 93373,
+    "question": "Hány hallgató van megközelítőleg a Szegedi Tudományegyetemen?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 30000,
+    "type": 2
+  },
+  {
+    "question_id": 46050,
+    "question": "Hány oktató van megközelítőleg a Szegedi Tudományegyetemen?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 2150,
+    "type": 2
+  },
+  {
+    "question_id": 36838,
+    "question": "Hány kar található a Szegedi Tudományegyetemen?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 12,
+    "type": 2
+  },
+  {
+    "question_id": 11760,
+    "question": "Mikor nyerte el a gyógyvíz rangot az Anna Gyógy-, Termál- és Élményfürdő?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1938,
+    "type": 2
+  },
+  {
+    "question_id": 26502,
+    "question": "Hány méter mélyről jön az Anna-gyógyvíz?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 944,
+    "type": 2
+  }
+]

@@ -1,0 +1,34 @@
+<div class="question_box">
+  <div class="question-box-title">{{ lobby_question['question'] }}</div>
+  <div class="progress-bar-container">
+    <div class="progress-bar">
+      <div class="progress-bar-fill"></div>
+    </div>
+  </div>
+  <div class="countdown-panel">
+    <div id="countdown-time"></div>
+    <div class="countdown-timer-panel">
+      <div id="countdown-timer">00:09</div>
+    </div>
+  </div>
+
+        <div class="input-container" style="margin-top: 30px">
+            <input type="radio" class="ans-radio" name="example" id="option1" value="1" onchange="changeColor()" onclick="radio_select('option1')">
+            <label id="answ1" class="ans-label" for="option1">{{ lobby_question['answs']['answ1'] }}</label>
+        </div>
+        <div class="input-container">
+            <input type="radio" class="ans-radio" name="example" id="option2" value="2" onchange="changeColor()" onclick="radio_select('option2')">
+            <label id="answ2" class="ans-label" for="option2">{{ lobby_question['answs']['answ2'] }}</label>
+        </div>
+        <div class="input-container">
+            <input type="radio" class="ans-radio" name="example" id="option3" value="3" onchange="changeColor()" onclick="radio_select('option3')">
+            <label id="answ3" class="ans-label" for="option3">{{ lobby_question['answs']['answ3'] }}</label>
+        </div>
+        <div class="input-container" style="margin-bottom: 30px">
+            <input type="radio" class="ans-radio" name="example"  id="option4" value="4" onchange="changeColor()" onclick="radio_select('option4')">
+            <label id="answ4" class="ans-label" for="option4">{{ lobby_question['answs']['answ4'] }}</label>
+        </div>
+    <input type="radio" id="question_id" value="{{ lobby_question['question_id'] }}" style="display: none" disabled>
+
+
+</div>

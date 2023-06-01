@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": 202,
+    "question": "Melyik évben alakult meg a Szegedi Tudományegyetem?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1872,
+    "type": 2
+  },
+  {
+    "question_id": 203,
+    "question": "Megközelítőleg hány hallgatóval rendelkezik a BTK?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 6000,
+    "type": 2
+  },
+  {
+    "question_id": 210,
+    "question": "Melyik évben alakult az SZTE BTK elődje, a József Attila Tudományegyetem BTK-ja?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1921,
+    "type": 2
+  },
+  {
+    "question_id": 1001,
+    "question": "Hány mesterképzés van a BTK karon?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 27,
+    "type": 2
+  },
+  {
+    "question_id": 1002,
+    "question": "Hány intézet és tanszék található a Szegedi BTK karon?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 12,
+    "type": 2
+  },
+  {
+    "question_id": 1003,
+    "question": "Hány külföldi diák tanul a Szegedi Tudományegyetemen?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 5000,
+    "type": 2
+  },
+  {
+    "question_id": 1004,
+    "question": "Hány kar vesz részt a Szegedi Tudományegyetemben?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 13,
+    "type": 2
+  },
+  {
+    "question_id": 1005,
+    "question": "Hány nyelvet lehet tanulni a Szegedi BTK-n?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 17,
+    "type": 2
+  },
+  {
+    "question_id": 1006,
+    "question": "Hány csoportos tanulmányi program (GTK) van a Szegedi BTK-n?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 7,
+    "type": 2
+  },
+  {
+    "question_id": 1007,
+    "question": "Hány alapképzési szak van a Szegedi BTK-n?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 19,
+    "type": 2
+  }
+]

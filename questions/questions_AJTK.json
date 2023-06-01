@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": 102,
+    "question": "Mikor alapították a Szegedi Tudományegyetem Állam- és Jogtudomány karát?",
+    "answs": {
+      "answ1": "1921",
+      "answ2": "1899",
+      "answ3": "1914",
+      "answ4": "1855"
+    },
+    "Cor_answ": 1921,
+    "type": 2
+  },
+  {
+    "question_id": 120,
+    "question": "Mikor íródott az első modern alkotmány az USA-ban?",
+    "answs": {
+      "answ1": "1787",
+      "answ2": "1672",
+      "answ3": "1769",
+      "answ4": "1801"
+    },
+    "Cor_answ": 1787,
+    "type": 2
+  },
+  {
+    "question_id": 126,
+    "question": "Mikor alakult az Európai Unió?",
+    "answs": {
+      "answ1": "1957",
+      "answ2": "1967",
+      "answ3": "1977",
+      "answ4": "1987"
+    },
+    "Cor_answ": 1957,
+    "type": 2
+  },
+  {
+    "question_id": 1501,
+    "question": "Hány alapképzést kínál az AJTK?",
+    "answs": {
+      "answ1": "4",
+      "answ2": "4",
+      "answ3": "4",
+      "answ4": "4"
+    },
+    "Cor_answ": 4,
+    "type": 2
+  },
+  {
+    "question_id": 1502,
+    "question": "Hány speciális képzést kínál az AJTK?",
+    "answs": {
+      "answ1": "2",
+      "answ2": "2",
+      "answ3": "2",
+      "answ4": "2"
+    },
+    "Cor_answ": 2,
+    "type": 2
+  },
+  {
+    "question_id": 1503,
+    "question": "Hány mesterképzést kínál az AJTK?",
+    "answs": {
+      "answ1": "4",
+      "answ2": "4",
+      "answ3": "4",
+      "answ4": "4"
+    },
+    "Cor_answ": 4,
+    "type": 2
+  },
+  {
+    "question_id": 1504,
+    "question": "Hány tanszék és intézet van az AJTK?",
+    "answs": {
+      "answ1": "18",
+      "answ2": "18",
+      "answ3": "18",
+      "answ4": "18"
+    },
+    "Cor_answ": 18,
+    "type": 2
+  },
+  {
+    "question_id": 1505,
+    "question": "Mikor ünnepelte a 150-dik évfordulóját az AJTK?",
+    "answs": {
+      "answ1": "2022",
+      "answ2": "2022",
+      "answ3": "2022",
+      "answ4": "2022"
+    },
+    "Cor_answ": 2022,
+    "type": 2
+  },
+  {
+    "question_id": 1506,
+    "question": "Mikor alapították  az AJTK?",
+    "answs": {
+      "answ1": "1872",
+      "answ2": "1872",
+      "answ3": "1872",
+      "answ4": "1872"
+    },
+    "Cor_answ": 1872,
+    "type": 2
+  },
+  {
+    "question_id": 1507,
+    "question": "Hányadik hónapban alapították  az AJTK?",
+    "answs": {
+      "answ1": "10",
+      "answ2": "10",
+      "answ3": "10",
+      "answ4": "10"
+    },
+    "Cor_answ": 10,
+    "type": 2
+  }
+]

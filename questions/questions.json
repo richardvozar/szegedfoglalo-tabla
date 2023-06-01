@@ -1,0 +1,482 @@
+[
+  {
+    "question_id": 138,
+    "question": "Melyik a legrégebbi kar Szegeden?",
+    "answs": {
+      "answ1": "ÁJTK",
+      "answ2": "TTIK",
+      "answ3": "BTK",
+      "answ4": "GTK"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 3,
+    "question": "Hol található a Szegedi Dóm?",
+    "answs": {
+      "answ1": "a Tisza partján",
+      "answ2": "a Belvárosban",
+      "answ3": "az Alsóvároson",
+      "answ4": "a Felsővároson"
+    },
+    "Cor_answ": 2,
+    "type": 1
+  },
+  {
+    "question_id": 4,
+    "question": "Melyik szegedi épület híres az akusztikájáról?",
+    "answs": {
+      "answ1": "Szegedi Nemzeti Színház",
+      "answ2": "Reök-palota",
+      "answ3": "Votive Templom",
+      "answ4": "SZTE TIK épülete"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 5,
+    "question": "Mi az a fajta paprika, ami Szeged híres terméke?",
+    "answs": {
+      "answ1": "piros",
+      "answ2": "zöld",
+      "answ3": "sárga",
+      "answ4": "édes"
+    },
+    "Cor_answ": 4,
+    "type": 1
+  },
+  {
+    "question_id": 6,
+    "question": "Melyik folyó határolja Szegedet délről?",
+    "answs": {
+      "answ1": "Tisza",
+      "answ2": "Duna",
+      "answ3": "Dráva",
+      "answ4": "Körös"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 7,
+    "question": "Milyen építészeti stílusban épült a Szegedi Nemzeti Színház?",
+    "answs": {
+      "answ1": "román",
+      "answ2": "gótikus",
+      "answ3": "neobarokk",
+      "answ4": "art deco"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 8,
+    "question": "Melyik szegedi egyetemi kar az országosan ismert informatikai képzéseiről híres?",
+    "answs": {
+      "answ1": "Bölcsészettudományi Kar",
+      "answ2": "Jog- és Államtudományi Kar",
+      "answ3": "Társadalomtudományi Kar",
+      "answ4": "Természettudományi és Informatikai Kar"
+    },
+    "Cor_answ": 4,
+    "type": 1
+  },
+  {
+    "question_id": 9,
+    "question": "Mikor épült fel az új szegedi belváros a nagy árvíz után?",
+    "answs": {
+      "answ1": "1910-es években",
+      "answ2": "1930-as években",
+      "answ3": "1950-es években",
+      "answ4": "1970-es években"
+    },
+    "Cor_answ": 2,
+    "type": 1
+  },
+  {
+    "question_id": 10,
+    "question": "Melyik épületet láthatjuk a szegedi Széchenyi téren?",
+    "answs": {
+      "answ1": "Városházát",
+      "answ2": "Szegedi Dómot",
+      "answ3": "Reök-palotát",
+      "answ4": "Nemzeti Színházat"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 11,
+    "question": "Melyik a Szegedi Szabadtéri Játékok fő helyszíne?",
+    "answs": {
+      "answ1": "Szegedi Dóm tér",
+      "answ2": "Móra Ferenc Múzeum",
+      "answ3": "Tisza-parti Nagyszínpad",
+      "answ4": "Újszegedi Víztorony"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 12,
+    "question": "Melyik szegedi fesztivál híres a gasztronómiai különlegességeiről?",
+    "answs": {
+      "answ1": "Szegedi Ifjúsági Napok",
+      "answ2": "Tiszavirág Fesztivál",
+      "answ3": "Szegedi Borfesztivál",
+      "answ4": "SZIN - Szegedi Zenei Fesztivál"
+    },
+    "Cor_answ": 2,
+    "type": 1
+  },
+  {
+    "question_id": 13,
+    "question": "Melyik szegedi helyszínen található a Tisza Mozi?",
+    "answs": {
+      "answ1": "Dom terasz",
+      "answ2": "Szegedi Pláza",
+      "answ3": "Tiszavirág Szálló",
+      "answ4": "Belvárosi Mozi"
+    },
+    "Cor_answ": 4,
+    "type": 1
+  },
+  {
+    "question_id": 14,
+    "question": "Melyik szegedi épületben található a Móra Ferenc Múzeum?",
+    "answs": {
+      "answ1": "Szegedi Dóm",
+      "answ2": "Reök-palota",
+      "answ3": "Szegedi Városháza",
+      "answ4": "Gróf Palace"
+    },
+    "Cor_answ": 2,
+    "type": 1
+  },
+  {
+    "question_id": 15,
+    "question": "Hol található a Szegedi Képtár?",
+    "answs": {
+      "answ1": "Szegedi Dóm",
+      "answ2": "Reök-palota",
+      "answ3": "Szegedi Városháza",
+      "answ4": "Gróf Palace"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 16,
+    "question": "Melyik történelmi személyiséggel kapcsolatos emlékhely található a szegedi Széchenyi téren?",
+    "answs": {
+      "answ1": "József Attila",
+      "answ2": "Móra Ferenc",
+      "answ3": "Széchenyi István",
+      "answ4": "Tisza Lajos"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 17,
+    "question": "Melyik szegedi szálloda nevezetes a közeli épült Tisza-hídról elénk táruló látványáról?",
+    "answs": {
+      "answ1": "Tiszavirág Szálló",
+      "answ2": "Art Hotel Szeged",
+      "answ3": "Novotel Szeged",
+      "answ4": "Science Hotel"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 18,
+    "question": "Melyik szegedi nevezetességet láthatjuk a szegedi tévéadások logójában?",
+    "answs": {
+      "answ1": "Szegedi Dóm",
+      "answ2": "Móra Ferenc Múzeum",
+      "answ3": "Kárász utcai színház",
+      "answ4": "Nemzeti Színház"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 19,
+    "question": "Melyik szegedi helyszínen található a Kárász utcai színház?",
+    "answs": {
+      "answ1": "Szegedi Dóm tér",
+      "answ2": "Móra Ferenc Múzeum",
+      "answ3": "Tisza-parti Nagyszínpad",
+      "answ4": "Anna Fürdő"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 20,
+    "question": "Melyik Szegeden található épületet tervezte Lechner Ödön?",
+    "answs": {
+      "answ1": "Szegedi Nemzeti Színház",
+      "answ2": "Szegedi Törvényszék",
+      "answ3": "Szegedi Városháza",
+      "answ4": "Szegedi Dóm"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 22,
+    "question": "Milyen folyó ömlik a Tisza jobb partján Szegednél?",
+    "answs": {
+      "answ1": "Körös",
+      "answ2": "Maros",
+      "answ3": "Körös-Maros",
+      "answ4": "Hármas-Körös"
+    },
+    "Cor_answ": 2,
+    "type": 1
+  },
+  {
+    "question_id": 23,
+    "question": "Melyik egyetem található Szegeden?",
+    "answs": {
+      "answ1": "Budapesti Corvinus Egyetem",
+      "answ2": "Eötvös Loránd Tudományegyetem",
+      "answ3": "Szegedi Tudományegyetem",
+      "answ4": "Pécsi Tudományegyetem"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 24,
+    "question": "Milyen nevű folyóvölgyi terület található Szeged északnyugati részén?",
+    "answs": {
+      "answ1": "Hortobágy",
+      "answ2": "Kiskunság",
+      "answ3": "Maros",
+      "answ4": "Bánság"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 25,
+    "question": "Melyik Szegeden található múzeum a földrajzi felfedezéseknek és a természettudományoknak szentelt?",
+    "answs": {
+      "answ1": "Reök-palota",
+      "answ2": "Móra Ferenc Múzeum",
+      "answ3": "Szegedi Tudományegyetem Juhász Gyula Pedagógusképző Kar Múzeuma",
+      "answ4": "Ferenc Móra Általános Iskola és Tanítóképző Pedagógiai Múzeuma"
+    },
+    "Cor_answ": 2,
+    "type": 1
+  },
+  {
+    "question_id": 26,
+    "question": "Melyik az a híres szegedi étel, ami a halászlé változata?",
+    "answs": {
+      "answ1": "Makói halászlé",
+      "answ2": "Békéscsabai halászlé",
+      "answ3": "Szegedi halászlé",
+      "answ4": "Bajai halászlé"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 27,
+    "question": "Mi Szeged hivatalos beceneve?",
+    "answs": {
+      "answ1": "Napsugár városa",
+      "answ2": "Fülemüle városa",
+      "answ3": "Szegfű városa",
+      "answ4": "Víz városa"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 28,
+    "question": "Melyik szegedi épület rendelkezik a világ legnagyobb Art Nouveau stílusú üvegmozaikjával?",
+    "answs": {
+      "answ1": "Szegedi Dóm",
+      "answ2": "Reök-palota",
+      "answ3": "Városháza",
+      "answ4": "Szegedi Nemzeti Színház"
+    },
+    "Cor_answ": 2,
+    "type": 1
+  },
+  {
+    "question_id": 29,
+    "question": "Melyik a Szeged legnagyobb folyója?",
+    "answs": {
+      "answ1": "Dráva",
+      "answ2": "Duna",
+      "answ3": "Tisza",
+      "answ4": "Maros"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 30,
+    "question": "Melyik épület Szeged jelképe?",
+    "answs": {
+      "answ1": "Móra Ferenc Múzeum",
+      "answ2": "Szegedi Vár",
+      "answ3": "Szegedi Dóm",
+      "answ4": "Nemzeti Színház"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 32,
+    "question": "Hol található a szegedi Árkád?",
+    "answs": {
+      "answ1": "Budapesti út 3",
+      "answ2": "Londoni körút 3",
+      "answ3": "Kossuth Lajos sugárút 119",
+      "answ4": "Szabadkai út 7"
+    },
+    "Cor_answ": 2,
+    "type": 1
+  },
+  {
+    "question_id": 33,
+    "question": "A következőek közül, mely cégnek található gyára Szegeden?",
+    "answs": {
+      "answ1": "Pick",
+      "answ2": "Audi",
+      "answ3": "Samsung",
+      "answ4": "Mercedes"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 34,
+    "question": "Az alábbiak közül melyik esemény köthető Szegedhez?",
+    "answs": {
+      "answ1": "Gourmet fesztivál",
+      "answ2": "Gerlice ünnep",
+      "answ3": "Tiszavirágzás",
+      "answ4": "Palacsinta fesztivál"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 35,
+    "question": "Melyik kar foglalkoztatja a legtöbb diákot?",
+    "answs": {
+      "answ1": "BTK",
+      "answ2": "ÁJTK",
+      "answ3": "GTK",
+      "answ4": "TTIK"
+    },
+    "Cor_answ": 4,
+    "type": 1
+  },
+  {
+    "question_id": 36,
+    "question": "Mely töténelmi esemény után döntöttek a szegedi vár lebontásáról?",
+    "answs": {
+      "answ1": "1879-es szegedi nagy árvíz",
+      "answ2": "Oszmán Török Birodalom térhódítása",
+      "answ3": "Tatárjárás",
+      "answ4": "II. Világháború"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 38,
+    "question": "Milyen híres magyar zeneszerző kapcsolódik Szegedhez?",
+    "answs": {
+      "answ1": "Bartók Béla",
+      "answ2": "Kodály Zoltán",
+      "answ3": "Liszt Ferenc",
+      "answ4": "Erkel Ferenc"
+    },
+    "Cor_answ": 2,
+    "type": 1
+  },
+  {
+    "question_id": 39,
+    "question": "Milyen anyag szállításában játszott fontos szerepet Szeged már a középkortól?",
+    "answs": {
+      "answ1": "Vas",
+      "answ2": "Só",
+      "answ3": "Szén",
+      "answ4": "Márvány"
+    },
+    "Cor_answ": 2,
+    "type": 1
+  },
+  {
+    "question_id": 40,
+    "question": "Az alábbi költők közül ki tanult a Szegedi Tudományegyetemen?",
+    "answs": {
+      "answ1": "Ady Endre",
+      "answ2": "Babits Mihály",
+      "answ3": "József Attila",
+      "answ4": "Kosztolányi Dezső"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 41,
+    "question": "Mikor ünneplik a város napját Szegeden?",
+    "answs": {
+      "answ1": "február 16",
+      "answ2": "június 26",
+      "answ3": "május 12",
+      "answ4": "március 19"
+    },
+    "Cor_answ": 3,
+    "type": 1
+  },
+  {
+    "question_id": 42,
+    "question": "Az alábbiak közül melyik költőnk született Szegeden?",
+    "answs": {
+      "answ1": "Juhász Gyula",
+      "answ2": "Ady Endre",
+      "answ3": "Babits Mihály",
+      "answ4": "József Attila"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 43,
+    "question": "Hogyan nevezték Szeged városát a római korban?",
+    "answs": {
+      "answ1": "Partiscum",
+      "answ2": "Pone Navata",
+      "answ3": "Solva",
+      "answ4": "Scarbantia"
+    },
+    "Cor_answ": 1,
+    "type": 1
+  },
+  {
+    "question_id": 44,
+    "question": "Szegedről melyik városba tart tram-train járat 2021 óta?",
+    "answs": {
+      "answ1": "Békéscsaba",
+      "answ2": "Kiskunhalas",
+      "answ3": "Makó",
+      "answ4": "Hódmezővásárhely"
+    },
+    "Cor_answ": 4,
+    "type": 1
+  }
+]

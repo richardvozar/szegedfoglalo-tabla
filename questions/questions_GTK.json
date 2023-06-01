@@ -1,0 +1,194 @@
+[
+  {
+    "question_id": 151,
+    "question": "Melyik évben alapították a Gazdaságtudományi kart?",
+    "answs": {
+      "answ1": "1999",
+      "answ2": "1985",
+      "answ3": "2003",
+      "answ4": "1938"
+    },
+    "Cor_answ": 1999,
+    "type": 2
+  },
+  {
+    "question_id": 152,
+    "question": "Hány fő volt a GTK-s hallgatók száma 2014-ben?",
+    "answs": {
+      "answ1": "867 fő",
+      "answ2": "1026 fő",
+      "answ3": "1966 fő",
+      "answ4": "3216 fő"
+    },
+    "Cor_answ": 1966,
+    "type": 2
+  },
+  {
+    "question_id": 25825,
+    "question": "Hány dolgozattal képviseltették magukat a 36. OTDK Közgazdaságtudományi szekciójában az SZTE GTK-s hallgatók?",
+    "answs": {
+      "answ1": "867 fő",
+      "answ2": "1026 fő",
+      "answ3": "1966 fő",
+      "answ4": "3216 fő"
+    },
+    "Cor_answ": 16,
+    "type": 2
+  },
+  {
+    "question_id": 70745,
+    "question": "Mikor költözött a Ferenc József Tudományegyetem Kolozsvárról Szegedre?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1921,
+    "type": 2
+  },
+  {
+    "question_id": 42662,
+    "question": "Hány Erasmus partnerintézménye van az SZTE GTK-nak? ",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 71,
+    "type": 2
+  },
+  {
+    "question_id": 97609,
+    "question": "Melyik évben lett Dr. habil. Kovács Péter a kar dékánja?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 2017,
+    "type": 2
+  },
+  {
+    "question_id": 36129,
+    "question": "Legalább hány személy kell egy gazdsági társaság alapításához?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1,
+    "type": 2
+  },
+  {
+    "question_id": 11715,
+    "question": "Ha 1 000 000 forintos befektetésünk évente 6 százalék kamatot hoz, és a kamatot is tőkésítjük, mennyi pénzünk lesz a második év végére forintban?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1123600,
+    "type": 2
+  },
+  {
+    "question_id": 10458,
+    "question": "A munkavállalók bruttó bérének hány százalékát teszi ki az egészségbiztosítási járulék, amelyet a munkáltató levon, és befizet a NAV-nak? ",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 7,
+    "type": 2
+  },
+  {
+    "question_id": 62934,
+    "question": "Mikor lett Magyarország tagja az OECD-nek?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 1996,
+    "type": 2
+  },
+  {
+    "question_id": 66508,
+    "question": "Magyarország bruttó hazai terméke (GDP) 2020-ban hány milliárd forint volt?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 47988,
+    "type": 2
+  },
+  {
+    "question_id": 28426,
+    "question": "Hány forint volt a bruttó bérek átlaga 2020-ban?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 403000,
+    "type": 2
+  },
+  {
+    "question_id": 60198,
+    "question": "Hány forint volt a nettó bérek átlaga 2020-ban?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 268000,
+    "type": 2
+  },
+  {
+    "question_id": 58283,
+    "question": "Megközelítőleg hány millió tonna barnaszenet rejt a farkaslyuki bánya?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 7,
+    "type": 2
+  },
+  {
+    "question_id": 32996,
+    "question": "Magyarország importjának hány százalékát bonyolítja le az EU országaival?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 78,
+    "type": 2
+  },
+  {
+    "question_id": 54247,
+    "question": "Magyarország exportjának hány százalékát bonyolítja le az EU országaival?",
+    "answs": {
+      "answ1": "-1",
+      "answ2": "-1",
+      "answ3": "-1",
+      "answ4": "-1"
+    },
+    "Cor_answ": 79,
+    "type": 2
+  }
+]

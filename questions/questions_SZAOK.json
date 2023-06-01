@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": 252,
+    "question": "Melyik évben kapta meg Szent-Györgyi Albert élettani Nobel-diját?",
+    "answs": {
+      "answ1": "1935",
+      "answ2": "1940",
+      "answ3": "1937",
+      "answ4": "1942"
+    },
+    "Cor_answ": 1937,
+    "type": 2
+  },
+  {
+    "question_id": 253,
+    "question": "A Jancsó Miklós Emlékérem és Jutalomdíjnak hány eddigi kitüntetettje van?",
+    "answs": {
+      "answ1": "34",
+      "answ2": "15",
+      "answ3": "8",
+      "answ4": "43"
+    },
+    "Cor_answ": 34,
+    "type": 2
+  },
+  {
+    "question_id": 254,
+    "question": "Kulka Frigyes Emlékérem és Jutalomdíj eddigi kitüntetettjeinek száma:",
+    "answs": {
+      "answ1": "16",
+      "answ2": "35",
+      "answ3": "6",
+      "answ4": "9"
+    },
+    "Cor_answ": 16,
+    "type": 2
+  },
+  {
+    "question_id": 255,
+    "question": "Pro Facultate Medicinae díj eddigi kitüntetettjeinek száma:",
+    "answs": {
+      "answ1": "12",
+      "answ2": "8",
+      "answ3": "9",
+      "answ4": "10"
+    },
+    "Cor_answ": 10,
+    "type": 2
+  },
+  {
+    "question_id": 259,
+    "question": "Megközelíthetőleg hány hallgató végzett a SZAOK-on?",
+    "answs": {
+      "answ1": "14000",
+      "answ2": "10000",
+      "answ3": "22000",
+      "answ4": "8500"
+    },
+    "Cor_answ": 14000,
+    "type": 2
+  },
+  {
+    "question_id": 1300,
+    "question": "Hány csontból áll az emberi koponya?",
+    "answs": {
+      "answ1": "22",
+      "answ2": "28",
+      "answ3": "26",
+      "answ4": "24"
+    },
+    "Cor_answ": 26,
+    "type": 2
+  },
+  {
+    "question_id": 1301,
+    "question": "Hány fog van az átlagos felnőtt ember szájában?",
+    "answs": {
+      "answ1": "30",
+      "answ2": "32",
+      "answ3": "34",
+      "answ4": "28"
+    },
+    "Cor_answ": 32,
+    "type": 2
+  },
+  {
+    "question_id": 1302,
+    "question": "Hány hónapig tart egy elefánt vemhessége?",
+    "answs": {
+      "answ1": "22",
+      "answ2": "16",
+      "answ3": "24",
+      "answ4": "12"
+    },
+    "Cor_answ": 22,
+    "type": 2
+  },
+  {
+    "question_id": 1303,
+    "question": "Hány gramm az átlagos emberi agy súlya?",
+    "answs": {
+      "answ1": "1410",
+      "answ2": "1370",
+      "answ3": "1502",
+      "answ4": "1330"
+    },
+    "Cor_answ": 1370,
+    "type": 2
+  },
+  {
+    "question_id": 1304,
+    "question": "Hány kromoszómapár van az emberi testsejtben?",
+    "answs": {
+      "answ1": "23",
+      "answ2": "23",
+      "answ3": "23",
+      "answ4": "23"
+    },
+    "Cor_answ": 23,
+    "type": 2
+  }
+]

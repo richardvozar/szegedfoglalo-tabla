@@ -1,0 +1,23 @@
+<div class="question_box2">
+        <div style="color: white; font-size: 20pt; margin-bottom: 10px">{{ lobby_question['question'] }}</div>
+
+        <div class="progress-bar-container">
+          <div class="progress-bar">
+            <div class="progress-bar-fill"></div>
+          </div>
+        </div>
+        <div class="countdown-panel">
+            <div id="countdown-time"></div>
+            <div class="countdown-timer-panel">
+              <div id="countdown-timer">00:09</div>
+            </div>
+          </div>
+
+        <div class="input-container-for-q2">
+            <input type="number" name="number" id="answ" value="0" minlength="1">
+            <button id="question_type_2_button" for="sendAnswer" onclick="tip_answ()">Küldés</button>
+        </div>
+        <input type="radio" id="question_id" value="{{ lobby_question['question_id'] }}" style="display: none" disabled>
+
+</div>
+
