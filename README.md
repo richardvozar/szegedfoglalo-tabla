@@ -1,100 +1,38 @@
-# Szegedfoglalo_tabla
-##main finder commit
+# Szegedfoglalo
+Szegedfoglalo is a captivating two-player online quiz game that immerses you in the fascinating world of Szeged, a vibrant city with a rich cultural heritage. In this game, you and your opponent engage in a thrilling battle to conquer territories and gather valuable points by answering questions about Szeged. Prepare yourself for an exhilarating gameplay experience as you explore the city's landmarks, history, and more.
 
+## Note
+This repository is only one of the five part of the whole project, it will not work alone.
+However, you can try the game out at [Szegedfoglalo's homepage](http://szegedfoglalo.ddns.net/) if the hosting is still up.
 
-## Install
+## Features
+- **Territory Reservation**: Begin the game by strategically reserving territories on the map. Each territory represents a different location or aspect of Szeged, and your goal is to claim as many territories as possible to gain an advantage.
 
-`pip install -r requirements.txt `
-## Run
+- **Quiz Challenges**: Test your knowledge about Szeged through a series of challenging quiz questions. Answer correctly to secure your hold on territories and earn valuable points. Be prepared to delve into the city's diverse topics, ranging from historical events to famous landmarks.
 
-`python app.py`
+- **University Faculty Wars**: Once the reservation phase concludes, engage in intense battles with your opponent to occupy five prestigious university faculties. These faculties are the ultimate prize, granting you additional points and increasing your chances of victory. Prepare for a thrilling clash between the esteemed Faculty of Natural Sciences and the prestigious Faculty of Humanities.
 
-## Request to "kviz"-question
+## My work
+- **Group Collaboration**: Szegedfoglalo was developed as part of an Agile Software Engineering course by a passionate group of 25 individuals. Over the course of four to five months, we worked tirelessly in five teams, each assigned to a different project. At the culmination of our efforts, we seamlessly merged all five projects to create this extraordinary game, providing you with an expansive and immersive gaming experience.
 
-```
-method: "POST",
-body: JSON.stringify({
-    player:player_name,
-    lobby: lobby,
-    lap: lap,
-    qtype:0,
-    qtopic:0,
-    qweights:0
-})
-```
+- **Scrum Master and Backend Developer**: As the Scrum Master and backend developer for this project, I meticulously orchestrated the development process and ensured the smooth integration of various components. Drawing upon my expertise, I strived to create a seamless and enjoyable gaming experience for all players.
 
+## Acknowledgements
+I would like to express my gratitude to our mentors of the Agile Software Engineering course and our fellow teammates for their dedication and hard work in bringing Szegedfoglalo to life. Special thanks to the Faculty of Natural Sciences and the Faculty of Humanities for providing the inspiration behind the eternal war in this game.
 
-## Response from "kviz"-question
+# Screenshots of pages
+## Login
+![login](login.png)
 
-```
-<div class="question_box">
-        <div>{{ lobby_question['question'] }}</div>
-        <input type="radio" name="example" id="option1" value="1">
-        <label id="answ1" for="option1">{{ lobby_question['answs']['answ1'] }}</label>
-        <input type="radio" name="example" id="option2" value="2">
-        <label id="answ2" for="option2">{{ lobby_question['answs']['answ2'] }}</label>
-        <input type="radio" name="example" id="option3" value="3">
-        <label id="answ3" for="option3">{{ lobby_question['answs']['answ3'] }}</label>
-        <input type="radio" name="example" id="option4" value="4">
-        <label id="answ4" for="option4">{{ lobby_question['answs']['answ4'] }}</label>
-</div>
-```
+## Menu / Game Rules / Profile / Start Game
+![lobby](lobby.gif)
 
-## Request to "kviz"-answer
+## Lobby with chat
+![chat](chat.gif)
 
-```
-method: "POST",
-body: JSON.stringify({
-    player:player_name,
-    lobby: lobby,
-    lap: lap,
-    answ:parseInt(selectedValue)
-})
-```
+## Gameplay
+![gameplay](gameplay.gif)
 
+## Result
+![result](result.png)
 
-## Response from "kviz"-answer
-
-```
-{
-    'player':player_name,
-    'lobby': lobby,
-    'answer':lobby_question['Cor_answ']==answ,
-    "pt":0
-}
-```
-
-## Request to "kiertekeles"-result
-
-```
-method: "POST",
-body: JSON.stringify({
-    name: player1_name,
-    id: player1_id,
-    enemy: player2_name,
-    lobby: lobby_name,
-    lobby_id:lobby_id,
-    pt1:player1_pt,
-    pt2:player2_pt,
-})
-```
-
-
-## Response from "kiertekeles"-result
-
-```
-<div class="box">
-        <div id="input1">Név: {{ input1 }}</div>
-        <br>
-        <div id="input2">Ellenfél: {{ input2 }}</div>
-        <br>
-        <div id="input3">Lobby: {{ input3 }}</div>
-        <br>
-        <div id="input3">Válasz: {{ input4 }}</div>
-        
-        <a href="http://127.0.0.1:8000/lobby?player="
-        onclick="location.href=this.href+'{{input1}}';return false;">
-            <button id="newGame" onclick="test()"> Új játék </button> </a>
-    </div>
-
-```
